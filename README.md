@@ -3,7 +3,7 @@
 A simple and clean advertisement interface built using **HTML** and **CSS** only.
 
 You can view the project here:  
-👉 **[Live Demo]([https://username.github.io/ads-interface/](https://mohammadjaradat-se.github.io/ads-interface/))**
+👉 https://mohammadjaradat-se.github.io/ads-interface/
 ## 📌 Project Description
 This project is a front-end advertisement interface that displays multiple product ads in a card-based layout.
 Each card contains:
