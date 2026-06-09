@@ -20,4 +20,4 @@ This project was created to practice front-end development fundamentals, includi
 
 ## Author
 Mohammad Jaradat
-Software Engineering Graduate
+Fresh Software Engineering Graduate
